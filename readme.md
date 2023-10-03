@@ -9,6 +9,7 @@ API a usar:
 - https://wwww.omdbapi.com/
 - API_KEY: 4287ad07
 
+Requerimientos:
 - Necsita mostar un input para buscar la pelicula y un boton para buscar.
 - Lista las peliculas encontradas y muestra el título, año y poster.
 - Haz que las películas se muestren en un grid responsive.
